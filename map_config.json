@@ -1,0 +1,26 @@
+{
+  "project": "SAMRA-GLOBAL-MATURITY",
+  "vision": "RDC-AFRICA-WORLD",
+  "nodes": [
+    {
+      "id": "HQ-KIN-01",
+      "city": "Kinshasa",
+      "role": "Central Hub",
+      "coordinates": {"lat": -4.4419, "lon": 15.2663}
+    },
+    {
+      "id": "HUB-LUB-02",
+      "city": "Lubumbashi",
+      "role": "Mining & Tech Pulse",
+      "coordinates": {"lat": -11.6609, "lon": 27.4794}
+    },
+    {
+      "id": "HUB-GOM-03",
+      "city": "Goma",
+      "role": "Resilience & Innovation",
+      "coordinates": {"lat": -1.6585, "lon": 29.2205}
+    }
+  ],
+  "international_connectors": ["Johannesburg", "Nairobi", "Paris", "Dubai"],
+  "status": "MAP_ACTIVE_366_DAYS"
+}
